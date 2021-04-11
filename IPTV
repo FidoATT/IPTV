@@ -309,6 +309,10 @@ https://fr-1.galaxyott.com/viettv24/streamer/luraco/luraco/luraco_4/chunks.m3u8
 #EXTGRP:VIET NAM TV
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8
 
+
+
+
+
 #EXTINF:0,CBC Ottawa
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30214.ts
@@ -330,6 +334,9 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30223.ts
 #EXTINF:0,CNN International
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30204.ts
+#EXTINF:0,BNN Bloomberg
+#EXTGRP:Canada
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3062.ts
 #EXTINF:0,Omni 1
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30140.ts
@@ -351,7 +358,7 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3008.ts
 #EXTINF:0,Sportnet Pacific
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30126.ts
-#EXTINF:0,TSN 1 HD
+#EXTINF:0,TSN 1
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3004.ts
 #EXTINF:0,TSN 2
@@ -366,6 +373,9 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3001.ts
 #EXTINF:0,TSN 5
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3000.ts
+#EXTINF:0,NBA
+#EXTGRP:Canada
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3037.ts
 #EXTINF:0,HGTV
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3030.ts
@@ -381,7 +391,7 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3029.ts
 #EXTINF:0,A E
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30231.ts
-#EXTINF:0,Geographic
+#EXTINF:0,National Geographic
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3020.ts
 #EXTINF:0,Nat Geo Wild
@@ -393,6 +403,9 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3047.ts
 #EXTINF:0,Discovery Science
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30190.ts
+#EXTINF:0,Documentary
+#EXTGRP:Canada
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30188.ts
 
 
 
