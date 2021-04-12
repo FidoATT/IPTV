@@ -11,18 +11,18 @@ http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:0,HTV Key
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,HTV7 | VieON
-#EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTV7HD.m3u8
-#EXTINF:0,HTV9 | VieON
-#EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTV9HD.m3u8
 #EXTINF:0,HTV Thể Thao | VieON
 #EXTGRP:VIET NAM TV
 https://chungxda.github.io/m3u8/VieON/HTVTheThao.m3u8
 #EXTINF:0,FBNC
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
+#EXTINF:0,HTV7 | VieON
+#EXTGRP:VIET NAM TV
+https://chungxda.github.io/m3u8/VieON/HTV7HD.m3u8
+#EXTINF:0,HTV9 | VieON
+#EXTGRP:VIET NAM TV
+https://chungxda.github.io/m3u8/VieON/HTV9HD.m3u8
 #EXTINF:0,HTVC Thuần Việt SD
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
@@ -47,9 +47,6 @@ https://chungxda.github.io/m3u8/VieON/HTVCGiaDinh.m3u8
 #EXTINF:0,HTVC Plus
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdb/htvcplus_2000.stream/chunklist.m3u8
-#EXTINF:0,HTVC Shopping
-#EXTGRP:VIET NAM TV
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 #EXTINF:0,BTV1 HD (Truyền hình Bình Dương)
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
@@ -59,6 +56,12 @@ https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:0,BTV4 - iMovie HD (Truyền hình Bình Dương)
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:0,HTVC Shopping
+#EXTGRP:VIET NAM TV
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+#EXTINF:0,THBT - Truyền hình Bến Tre
+#EXTGRP:VIET NAM TV
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BTV9 Bình Dương - An Viên TV (Bchannel) | FPT Play
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
@@ -68,9 +71,6 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:0,BTV11 (Truyền hình Bình Dương)
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
-#EXTINF:0,THBT - Truyền hình Bến Tre
-#EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BLTV - Truyền hình Bạc Liêu
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
@@ -266,6 +266,18 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:0,ANTV | VieON
 #EXTGRP:VIET NAM TV
 https://chungxda.github.io/m3u8/VieON/ANTVHD.m3u8
+#EXTINF:0,NHÂN DÂN
+#EXTGRP:VIET NAM TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+#EXTINF:0,VNEWS - Truyền hình TTXVN
+#EXTGRP:VIET NAM TV
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QUỐC HỘI
+#EXTGRP:VIET NAM TV
+http://113.191.251.90:1935/live/quochoitvlive.stream_360p/chunklist_w1809032196.m3u8
+#EXTINF:0,VOV TV
+#EXTGRP:VIET NAM TV
+https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 #EXTINF:0,USV Television
 #EXTGRP:VIET NAM TV
 https://fr-1.galaxyott.com/viettv24/streamer/vatv/liveChannel/vatv_3/chunks.m3u8
@@ -296,8 +308,6 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1885360669.m3u8
 
 
 
-
-
 #EXTINF:0,CBC Ottawa
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30214.ts
@@ -313,15 +323,15 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3035.ts
 #EXTINF:0,CP24
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3053.ts
+#EXTINF:0,BNN Bloomberg
+#EXTGRP:Canada
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3062.ts
 #EXTINF:0,BBC Canada
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30223.ts
 #EXTINF:0,CNN International
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30204.ts
-#EXTINF:0,BNN Bloomberg
-#EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3062.ts
 #EXTINF:0,Omni 1
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30140.ts
@@ -361,21 +371,21 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3000.ts
 #EXTINF:0,NBA
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3037.ts
-#EXTINF:0,HGTV
-#EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3030.ts
 #EXTINF:0,Cooking Channel
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30202.ts
-#EXTINF:0,Animal Planet
+#EXTINF:0,HGTV
 #EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3065.ts
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3119.ts
 #EXTINF:0,History
 #EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3029.ts
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3118.ts
 #EXTINF:0,A E
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30231.ts
+#EXTINF:0,Animal Planet
+#EXTGRP:Canada
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3161.ts
 #EXTINF:0,National Geographic
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3020.ts
@@ -384,10 +394,10 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3020.ts
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3019.ts
 #EXTINF:0,Discovery
 #EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3047.ts
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3143.ts
 #EXTINF:0,Discovery Science
 #EXTGRP:Canada
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30190.ts
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3100.ts
 #EXTINF:0,Documentary
 #EXTGRP:Canada
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30188.ts
@@ -395,12 +405,72 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30188.ts
 
 
 
+#EXTINF:0,FOX News
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3131.ts
+#EXTINF:0,NBC
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3106.ts
+#EXTINF:0,CBS
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3151.ts
+#EXTINF:0,ABC News
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3165.ts
+#EXTINF:0,TBS
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3095.ts
+#EXTINF:0,TLC
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3093.ts
+#EXTINF:0,Travel Channel
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3091.ts
+#EXTINF:0,TRU TV
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3090.ts
+#EXTINF:0,USA Network
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3089.ts
+#EXTINF:0,Discovery Velocity
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3088.ts
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30060.ts
+#EXTINF:0,ESPN
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3136.ts
+#EXTINF:0,ESPN 2
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3137.ts
+#EXTINF:0,ESPN News
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3135.ts
+#EXTINF:0,Tennis Channel
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/59205.ts
+#EXTINF:0,Tennis Channel UHD
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/59200.ts
+#EXTINF:0,Starz East
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3149.ts
+#EXTINF:0,Action Max
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3163.ts
+#EXTINF:0,Hallmark Movies
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3124.ts
+#EXTINF:0,HBO Comedy
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3123.ts
+#EXTINF:0,HBO
+#EXTGRP:USA TV
+http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3122.ts
 #EXTINF:0,AE
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3167.ts
-#EXTINF:0,Animal Planet
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3161.ts
 #EXTINF:0,BBC America
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3160.ts
@@ -422,9 +492,6 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3146.ts
 #EXTINF:0,Destination America
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3144.ts
-#EXTINF:0,Discovery
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3143.ts
 #EXTINF:0,DIY Network
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3139.ts
@@ -446,12 +513,6 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3126.ts
 #EXTINF:0,Hallmark Channel
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3125.ts
-#EXTINF:0,HGTV
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3119.ts
-#EXTINF:0,History
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3118.ts
 #EXTINF:0,Investigation Discovery
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3117.ts
@@ -476,9 +537,6 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3105.ts
 #EXTINF:0,OWN
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3101.ts
-#EXTINF:0,Discovery Science
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3100.ts
 #EXTINF:0,Showtime
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3099.ts
@@ -491,69 +549,3 @@ http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3097.ts
 #EXTINF:0,SyFy
 #EXTGRP:USA TV
 http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3096.ts
-#EXTINF:0,FOX-News
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3131.ts
-#EXTINF:0,NBC
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3106.ts
-#EXTINF:0,CBS
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3151.ts
-#EXTINF:0,ABC-NEWS
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3165.ts
-#EXTINF:0,TBS
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3095.ts
-#EXTINF:0,TLC
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3093.ts
-#EXTINF:0,Travel Channel
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3091.ts
-#EXTINF:0,TRU TV
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3090.ts
-#EXTINF:0,USA Network
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3089.ts
-#EXTINF:0,Discovery Velocity
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3088.ts
-#EXTINF:0,NAT GEO WILD
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/30060.ts
-#EXTINF:0,NBCSN
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3105.ts
-#EXTINF:0,ESPN
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3136.ts
-#EXTINF:0,ESPN 2
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3137.ts
-#EXTINF:0,ESPN News
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3135.ts
-#EXTINF:0,Tennis Channel
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/59205.ts
-#EXTINF:0,Tennis Channel UHD
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/59200.ts
-#EXTINF:0,Starz East
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3149.ts
-#EXTINF:0,Action Max
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3163.ts
-#EXTINF:0,HALLMARK-MOVIES
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3124.ts
-#EXTINF:0,HBO Comedy
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3123.ts
-#EXTINF:0,HBO
-#EXTGRP:USA TV
-http://mu03.smartersplus.com:8880/live/FL2MF425/NBSD63GS6/3122.ts
