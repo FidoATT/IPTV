@@ -4,7 +4,7 @@
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTV2 - Vie Channel | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTV2VieChannel.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:0,HTV3
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
@@ -13,37 +13,37 @@ http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTV Thể Thao | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVTheThao.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:0,FBNC
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #EXTINF:0,HTV7 | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTV7HD.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/chunks.m3u8
 #EXTINF:0,HTV9 | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTV9HD.m3u8
+http://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTVC Thuần Việt SD
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTVC Thuần Việt HD | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCThuanVietHD.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC Phụ Nữ | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCPhuNu.m3u8
+http://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 #EXTINF:0,HTVC Phim | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCPhim.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC Ca Nhạc | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCCaNhac.m3u8
+http://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
 #EXTINF:0,HTVC Du Lịch - Cuộc Sống | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCDuLichCuocSong.m3u8
+http://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
 #EXTINF:0,HTVC Gia Đình | VieON
 #EXTGRP:VIET NAM TV
-https://chungxda.github.io/m3u8/VieON/HTVCGiaDinh.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC Plus
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/sdb/htvcplus_2000.stream/chunklist.m3u8
