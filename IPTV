@@ -274,9 +274,6 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,QUỐC HỘI
 #EXTGRP:VIET NAM TV
-http://113.191.251.90:1935/live/quochoitvlive.stream_360p/chunklist_w1809032196.m3u8
-#EXTINF:0,VOV TV
-#EXTGRP:VIET NAM TV
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 #EXTINF:0,USV Television
 #EXTGRP:VIET NAM TV
