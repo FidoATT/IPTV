@@ -19,7 +19,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #EXTINF:0,HTV7 | VieON
 #EXTGRP:VIET NAM TV
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/chunks.m3u8
+http://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HTV9 | VieON
 #EXTGRP:VIET NAM TV
 http://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
@@ -400,31 +400,31 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 #EXTINF:0,VTV1 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=2
+https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV2 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=3
+https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
 #EXTINF:0,VTV3 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=4
+http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV4 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=108
+https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:0,VTV5 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=110
+https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV6 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=98
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV7 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=6
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV8 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=115
+https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV9 HD
 #EXTGRP:VIET NAM TV
-https://iptvhthanh.000webhostapp.com/viettelht/get.php?play&id=8
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u
 
 
 
