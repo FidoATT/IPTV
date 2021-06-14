@@ -407,7 +407,7 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 #EXTINF:0,VTV1 HD
 #EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV2 HD
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
@@ -419,19 +419,19 @@ https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:0,VTV5 HD
 #EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
 #EXTINF:0,VTV6 HD
 #EXTGRP:VIET NAM TV
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV7 HD
 #EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 #EXTINF:0,VTV8 HD
 #EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV9 HD
 #EXTGRP:VIET NAM TV
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u
+https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
 
 
