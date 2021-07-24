@@ -335,51 +335,7 @@ http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8?uid=s2c5
 
 
 
-#EXTINF:0,VTC1 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
-#EXTINF:0,VTC2
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
-#EXTINF:0,VTC3 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_1080p/playlist.m3u8
-#EXTINF:0,VTC4 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC4/chunks.m3u8
-#EXTINF:0,VTC5 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
-#EXTINF:0,VTC6
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC6/chunks.m3u8
-#EXTINF:0,VTC7 - Today TV HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
-#EXTINF:0,VTC8
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
-#EXTINF:0,VTC9 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_1080p/playlist.m3u8
-#EXTINF:0,VTC10
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_1080p/playlist.m3u8
-#EXTINF:0,VTC11 - KidsTV
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
-#EXTINF:0,VTC12
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
-#EXTINF:0,VTC13 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
-#EXTINF:0,VTC14 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
-#EXTINF:0,VTC16 HD
-#EXTGRP:VIET NAM TV
-https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
+
 
 
 
