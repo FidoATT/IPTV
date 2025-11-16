@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 #EXTINF:-1 tvg-id="5AABTV.ca@SD",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanNobelMovies.ca@SD",Afghan Nobel Movies (720p)
@@ -290,4 +287,3 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emci
 http://fl1.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1 tvg-id="NHLCentreIce1.ca@SD",NHL Centre Ice 1
 http://fl1.moveonjoy.com/NHL_1/index.m3u8
-
